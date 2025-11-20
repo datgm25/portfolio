@@ -2,6 +2,10 @@
 
 # 大見出し
 
+![仮画像](images/img00.png)
+
+<img src="images/img00.png" alt="仮画像" height=200px>
+
 ## 中見出し
 
 ### 小見出し
