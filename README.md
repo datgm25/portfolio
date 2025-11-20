@@ -39,7 +39,7 @@
 
 - 執筆環境：Re:VIEW
 - 執筆期間：2025/2/3-5/21
-- [技術書典18](https://techbookfest.org/event/tbf18)にて初出
+- [技術書典18](https://techbookfest.org/event/tbf18) 初出
 
 
 ### Power Jump & Power Kick!!
